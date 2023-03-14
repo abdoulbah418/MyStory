@@ -29,7 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/XZIBM6q' title='Video Walkthrough' alt='Video Walkthrough' />
+'https://imgur.com/a/XZIBM6q' 
+
+​was having trouble uploading the gif directly, file size was too big
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
