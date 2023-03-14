@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 https://imgur.com/a/XZIBM6q
 
-[MyStory Recording 2](https://user-images.githubusercontent.com/69488874/225116001-4119b144-6848-4f37-8d6e-c1d4570a60d7.gif)
+![MyStory Recording 3](https://user-images.githubusercontent.com/69488874/225159110-3f1c1d01-09a1-4d53-8128-f0af97841147.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
